@@ -1,0 +1,31 @@
+body {
+    margin:0;
+    padding: 0;
+    display: flex;
+    height: 100%;
+}
+.menu_bar {
+    width: 20%;
+    float:left;
+    height: 100vh;
+    background-color: aquamarine;
+}
+.feed {
+    width: 80%;
+    height: 100vh;
+    float: right;
+    background-color: antiquewhite;
+}
+.post_styl {
+    width: 500px;
+    height: 100px;
+}
+.post_titl {
+    width: 500px;
+    height: 100px;
+    color: black;
+}
+.user_name {
+    font-weight: bold;
+    color: #333;
+}
